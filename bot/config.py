@@ -1,12 +1,13 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
-    DATABASE_URL = ""
-    SUDO_USERS = "" # Sepearted by space.
+    BOT_TOKEN = "1853145648:AAF_UDOwwbmI79m89itEatNoTTgXcZs-z0U"
+    APP_ID = "2295505"
+    API_HASH = "d2e3a7c6e484531e1e30de97f2aca7ed"
+    DATABASE_URL = "postgres://hgviepcauozhxh:e46c5da8446b04f2d6e81e67bb54c72388cc9ad06f89149dae7b2d16bed5b6af@ec2-34-193-101-0.compute-1.amazonaws.com:5432/d5reo37uge7ebd"
+    SUDO_USERS = "1215122799" # Sepearted by space.
+    SUPPORT_CHAT_LINK = https://t.me/gdriveupload2
     DOWNLOAD_DIRECTORY = "./downloads/"
-    G_DRIVE_CLIENT_ID = ""
-    G_DRIVE_CLIENT_SECRET = ""
+    G_DRIVE_CLIENT_ID = "319770263938-j0fv0lphvgq7lej5hl5ndrr971pd1osg.apps.googleusercontent.com"
+    G_DRIVE_CLIENT_SECRET = "XWNwOSFe4kjss4ub84Og3WRQ"
 
 
 class BotCommands:
